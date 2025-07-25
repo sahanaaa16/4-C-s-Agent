@@ -1,5 +1,0 @@
-google-adk
-python-dotenv
-litellm
-openai 
-fpdf==1.7.2
